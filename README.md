@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-de-leyenda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Amor de leyenda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-leyenda/) |
+| **Get License** | [Get License For Amor de leyenda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-leyenda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa noche me llamaste sin hablar
+> Tu silencio dijo todo sin dudar
+> La ciudad se apaga y enciendo el motor
+> Amor de leyenda, soy tu cazador
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
