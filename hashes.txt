@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor de leyenda
+
+This log tracks the cryptographic history and versioning for the song **Amor de leyenda** (amor-de-leyenda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:06:41.585780 | `v1` | `f67421cfbbd8d93aa9c260b45e709d2512d0c2d4491d5f70abcbade688a86094` | `34d010197ce64fc9ff201e2dc5abf7119977f1ee6df506eaa9059dbf7fc10dc1` | `2026-06-23_amor-de-leyenda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
